@@ -1,0 +1,203 @@
+[
+  {
+    "id": 1,
+    "name": "IA Generativa",
+    "hours": 80,
+    "impact": 90,
+    "category": "Inteligência Artificial",
+    "description": "Conceitos básicos de modelos generativos, aplicações práticas e ética.",
+    "prerequisites": [
+      "Lógica básica de programação"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Análise de Dados",
+    "hours": 120,
+    "impact": 85,
+    "category": "Dados",
+    "description": "Limpeza, visualização, estatística descritiva e introdução a machine learning.",
+    "prerequisites": [
+      "Introdução a Python"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Web Full Stack",
+    "hours": 150,
+    "impact": 75,
+    "category": "Desenvolvimento",
+    "description": "HTML, CSS, JavaScript, backend básico e deploy em nuvem.",
+    "prerequisites": [
+      "Lógica de programação"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Segurança Cibernética",
+    "hours": 60,
+    "impact": 80,
+    "category": "Segurança",
+    "description": "Conceitos de segurança, autenticação, criptografia e boas práticas.",
+    "prerequisites": []
+  },
+  {
+    "id": 5,
+    "name": "Sustentabilidade e Economia",
+    "hours": 40,
+    "impact": 70,
+    "category": "Sustentabilidade",
+    "description": "Princípios da economia verde, negócios sustentáveis e métricas de impacto.",
+    "prerequisites": []
+  },
+  {
+    "id": 6,
+    "name": "Robótica Industrial",
+    "hours": 100,
+    "impact": 78,
+    "category": "Robótica",
+    "description": "Fundamentos de automação, sensores, atuadores e controle básico.",
+    "prerequisites": [
+      "Matemática básica"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "UX Design",
+    "hours": 50,
+    "impact": 72,
+    "category": "Design",
+    "description": "Princípios de UX, pesquisa com usuários e prototipagem.",
+    "prerequisites": []
+  },
+  {
+    "id": 8,
+    "name": "Saúde Mental",
+    "hours": 30,
+    "impact": 65,
+    "category": "Saúde",
+    "description": "Estratégias para bem-estar, prevenção de burnout e políticas organizacionais.",
+    "prerequisites": []
+  },
+  {
+    "id": 9,
+    "name": "Comunicação e Pensamento",
+    "hours": 40,
+    "impact": 82,
+    "category": "Habilidades Humanas",
+    "description": "Comunicação efetiva, feedback, resolução de problemas e pensamento crítico.",
+    "prerequisites": []
+  },
+  {
+    "id": 10,
+    "name": "Cloud Computing",
+    "hours": 70,
+    "impact": 76,
+    "category": "Infraestrutura",
+    "description": "Conceitos de cloud, serviços principais e deploy de aplicações.",
+    "prerequisites": [
+      "Noções de redes"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "DevOps e Integração",
+    "hours": 60,
+    "impact": 74,
+    "category": "Desenvolvimento",
+    "description": "CI/CD, containers e práticas de integração/entrega contínua.",
+    "prerequisites": [
+      "Desenvolvimento Web Full Stack"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "NLP",
+    "hours": 90,
+    "impact": 83,
+    "category": "Inteligência Artificial",
+    "description": "Técnicas básicas de NLP e aplicações em assistentes e análise de texto.",
+    "prerequisites": [
+      "Bootcamp de Análise de Dados"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Ética e Regulação",
+    "hours": 20,
+    "impact": 68,
+    "category": "Governança",
+    "description": "Questões éticas, viés em modelos e regulação emergente.",
+    "prerequisites": []
+  },
+  {
+    "id": 14,
+    "name": "VR Ambientes Imersivos",
+    "hours": 80,
+    "impact": 71,
+    "category": "Imersão",
+    "description": "Conceitos de VR/AR e usos em treinamentos e colaboração remota.",
+    "prerequisites": [
+      "Desenvolvimento Web Full Stack"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Gestão de Projetos",
+    "hours": 45,
+    "impact": 77,
+    "category": "Gestão",
+    "description": "Scrum, Kanban e práticas ágeis para entrega de valor.",
+    "prerequisites": []
+  },
+  {
+    "id": 16,
+    "name": "Análise de Tendências",
+    "hours": 35,
+    "impact": 69,
+    "category": "Carreira",
+    "description": "Como interpretar dados de mercado para planejar requalificação.",
+    "prerequisites": []
+  },
+  {
+    "id": 17,
+    "name": "Laboratório de Projetos",
+    "hours": 110,
+    "impact": 88,
+    "category": "Prático",
+    "description": "Projeto prático aplicando IA a um problema real de negócio.",
+    "prerequisites": [
+      "Introdução a IA Generativa",
+      "Bootcamp de Análise de Dados"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Comunidades",
+    "hours": 25,
+    "impact": 60,
+    "category": "Comunidade",
+    "description": "Como participar e aproveitar comunidades para aprendizado contínuo.",
+    "prerequisites": []
+  },
+  {
+    "id": 19,
+    "name": "Técnicas de Entrevista",
+    "hours": 15,
+    "impact": 66,
+    "category": "Carreira",
+    "description": "Preparação para entrevistas técnicas e construção de portfólio.",
+    "prerequisites": []
+  },
+  {
+    "id": 20,
+    "name": "Robótica Colaborativa",
+    "hours": 95,
+    "impact": 75,
+    "category": "Robótica",
+    "description": "Integração de robôs colaborativos (cobots) e normas de segurança.",
+    "prerequisites": [
+      "Automação e Robótica Industrial (Introdução)"
+    ]
+  }
+]
