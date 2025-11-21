@@ -100,6 +100,10 @@ Onde:
 - **n** = número de cursos
 - **W** = capacidade da mochila (horas disponíveis)
 
+## 🎥 Vídeo explicativo
+
+https://youtu.be/hwn9fZCgFlA
+
 ## 👥 Integrantes
 
 - **David Murillo de Oliveira Soares** (RM 559078)
